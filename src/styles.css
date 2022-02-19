@@ -38,8 +38,10 @@ h2{
     font-size: 64px;
     font-family: var(--heading-font-family);
 }
+    
+    
 
-.hero {
+ .hero {
     background-color: var(--secondary-color);
     text-align:center;
     padding: 160px 20px;
@@ -95,4 +97,7 @@ div {
 }
 .mb-5{
     margin-bottom: 3rem!important;
+}
+.project-description{
+    padding:120px 50px;
 }
