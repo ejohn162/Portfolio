@@ -155,3 +155,20 @@ nav a{
     color:#272142;
     transition: all 100ms ease-in-out;
 }
+.justify-content-between{
+    justify-content: space-between!important;
+
+}
+.d-flex{
+    display:flex!important;
+}
+nav{
+    padding: 20px 0;
+}
+.logo{
+    max-width:150px;
+}
+nav a:hover,
+nav li.active a {
+    color:var(--branding-color);
+}
